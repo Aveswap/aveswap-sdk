@@ -1,5 +1,5 @@
 {
-  "name": "@aveswap/sdk",
+  "name": "@aveswapio/sdk",
   "license": "MIT",
   "version": "5.0.0-canary.56",
   "description": "🛠 An SDK for building applications on top of AveSwap.",
