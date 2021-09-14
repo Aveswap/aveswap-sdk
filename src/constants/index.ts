@@ -6,7 +6,7 @@ export * from './natives'
 export * from './numbers'
 export * from './tokens'
 
-export const INIT_CODE_HASH: string = '0x4e8cdebbad8c932d47bf0564bdafa743dd913ae7e5d72fc28037a03e9c5b6741'
+export const INIT_CODE_HASH: string = '0xacc5cac6a81f463df7bf86511df475c855e730fbdb90c4b0e073a5ce5d3f2300'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
